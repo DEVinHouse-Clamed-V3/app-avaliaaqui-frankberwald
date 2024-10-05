@@ -10,17 +10,20 @@ Little application developed for the Senai's DEVinHouse class, mainly using <str
   <img src="https://github.com/user-attachments/assets/5411c8cd-449a-4a37-b2ed-d20d1813ea57" alt="messages" width="425" height="800">
 </div>
 
-<h2>Products screen where all products on my database are being displayed.</h2>
+<h2>Products screen.</h2>
+<p>Where all products on my database are being displayed.</p>
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/3d8ce21f-9de2-4dc6-bf60-f052850d89cd" alt="Tasks" width="425" height="800">
 </div>
 
-<h2>Feedback form screen. This screen is where the user evaluate the product based on his experience.</h2>
+<h2>Feedback form screen.</h2>
+<p>This screen is where the user evaluate the product based on his experience.</p>
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/95cc00b0-afa6-4c08-baa7-58f97823c73e" alt="Activity" width="425" height="800">
 </div>
 
-<h2>Last the Picker list i used on the feedback form, where you're able to select the products based on what is available on the database</h2>
+<h2>Picker List.</h2>
+<p>I used on the feedback form, where you're able to select the products based on what is available on the database.</p>
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/a9083bd0-1d4b-4c6e-9877-be88f66e3020" alt="Activity" width="425" height="800">
 </div>
