@@ -26,9 +26,9 @@ export default function HomeScreen() {
         <Image source={{uri: 'https://comicboom.com.br/loja/wp-content/uploads/2018/09/cavaleiro-das-trevas-iii-1.jpg'}} style={styles.image}/>
         <Image source={{uri: 'https://cdn.awsli.com.br/2500x2500/84/84034/produto/259881494/harry-123-6hbqk9rlap.jpg'}} style={styles.image}/>
         </View>
-        
+
           <Text style={styles.title}>Avalie Aqui</Text>
-          <Text>Escolha o produto que deseja avaliar e compartilhe sua experiência com outros consumidores.</Text>
+          <Text style={styles.subtitle}>Escolha o produto que deseja avaliar e compartilhe sua experiência com outros consumidores.</Text>
           <TouchableOpacity style={styles.enterButton} onPress={goToProducts}><Text style={styles.buttonText}>Entrar</Text></TouchableOpacity>
 
       </View>
@@ -59,6 +59,9 @@ const styles = StyleSheet.create({
   title: {
     fontWeight: 'bold',
     fontSize: 28,
+  },
+  subtitle: {
+    textAlign: 'center'
   },
   buttonText: {
     color: '#fff',

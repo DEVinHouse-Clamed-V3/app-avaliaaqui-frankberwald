@@ -1,16 +1,13 @@
 {
   "evaluations": [
     {
-      "id": "1",
+      "id": 1,
       "productId": 1,
       "name": "João Silva",
       "email": "joao.silva@example.com",
       "feedback": "Ótimo filme, cheio de ação!",
       "experience": "Feliz",
       "recommend": true
-    },
-    {
-      "id": "4cf9"
     }
   ],
   "products": [
@@ -101,102 +98,102 @@
       "brand": "Sony",
       "description": "O console de última geração com gráficos impressionantes.",
       "image": "https://cdn.awsli.com.br/600x450/1919/1919257/produto/130205725/ee4bcb9e97.jpg"
-  },
-  {
+    },
+    {
       "id": "12",
       "name": "Xbox Series X",
       "price": "R$ 4.499,99",
       "brand": "Microsoft",
       "description": "Console poderoso com desempenho excepcional e jogos incríveis.",
       "image": "https://m.media-amazon.com/images/I/61rApRFkOeL.jpg"
-  },
-  {
+    },
+    {
       "id": "13",
       "name": "Jogo - The Last of Us Part II",
       "price": "R$ 199,99",
       "brand": "Naughty Dog",
       "description": "A sequência emocionante do aclamado jogo de aventura.",
       "image": "https://cdn.awsli.com.br/600x450/241/241991/produto/245514040/tlou-23k82hvvr8.jpg"
-  },
-  {
+    },
+    {
       "id": "14",
       "name": "Fone de Ouvido Bluetooth",
       "price": "R$ 299,99",
       "brand": "JBL",
       "description": "Fones de ouvido sem fio com excelente qualidade de som.",
       "image": "https://http2.mlstatic.com/D_NQ_NP_912636-MLB49376746079_032022-O.webp"
-  },
-  {
+    },
+    {
       "id": "15",
       "name": "Teclado Mecânico RGB",
       "price": "R$ 399,99",
       "brand": "Redragon",
       "description": "Teclado mecânico com retroiluminação RGB e switches duráveis.",
       "image": "https://cdn.awsli.com.br/600x450/1318/1318167/produto/215727955/k6c5d5-1-z1gvdpegnx.PNG"
-  },
-  {
+    },
+    {
       "id": "16",
       "name": "Monitor Gamer 27\"",
       "price": "R$ 1.799,99",
       "brand": "Acer",
       "description": "Monitor de 27 polegadas com taxa de atualização de 144Hz.",
       "image": "https://images.kabum.com.br/produtos/fotos/115312/monitor-gamer-acer-led-27-full-hd-hdmi-displayport-165hz-1ms-preto-vermelho-kg271-p_1595267545_g.jpg"
-  },
-  {
+    },
+    {
       "id": "17",
       "name": "Cadeira Gamer",
       "price": "R$ 699,99",
       "brand": "Mancer",
       "description": "Cadeira ergonômica para longas horas de jogos.",
       "image": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/c/mcr-ccm-ppl00110021.jpg"
-  },
-  {
+    },
+    {
       "id": "18",
       "name": "HD Externo 1TB",
       "price": "R$ 329,99",
       "brand": "Seagate",
       "description": "HD externo de 1TB para armazenamento portátil.",
       "image": "https://http2.mlstatic.com/D_NQ_NP_796459-MLU72704079763_112023-O.webp"
-  },
-  {
+    },
+    {
       "id": "19",
       "name": "Câmera Digital",
       "price": "R$ 1.299,99",
       "brand": "Canon",
       "description": "Câmera digital com lente intercambiável e alta resolução.",
       "image": "https://i.zst.com.br/thumbs/12/38/38/1195866165.jpg"
-  },
-  {
+    },
+    {
       "id": "20",
       "name": "Smartphone Android",
       "price": "R$ 1.499,99",
       "brand": "Samsung",
       "description": "Smartphone com câmera de alta qualidade e grande armazenamento.",
       "image": "https://a-static.mlcdn.com.br/450x450/smartphone-samsung-galaxy-a05-128gb-prata-4g-octa-core-4gb-ram-67-cam-dupla-selfie-8mp/magazineluiza/238036600/2a946d7a510a7a32aa1843b2b3c50986.jpg"
-  },
-  {
+    },
+    {
       "id": "21",
       "name": "Tablet 10\"",
       "price": "R$ 899,99",
       "brand": "Apple",
       "description": "Tablet de 10 polegadas com performance e design incríveis.",
       "image": "https://dcdn.mitiendanube.com/stores/004/629/928/products/ipad10capa-5534ae52684cd32a1317168584900004-1024-1024.png"
-  },
-  {
+    },
+    {
       "id": "22",
       "name": "Fone de Ouvido com Fio",
       "price": "R$ 99,99",
       "brand": "Philips",
       "description": "Fones de ouvido com fio com conforto e qualidade de som.",
       "image": "https://a-static.mlcdn.com.br/450x450/fone-de-ouvido-philips-com-microfone-ouvidos-fio-p2-taue-101-philps/dupetriz/dz00171/0fd8a77c5e2a3bf81b2f9f93c885c973.jpeg"
-  },
-  {
+    },
+    {
       "id": "23",
       "name": "Relógio Inteligente",
       "price": "R$ 499,99",
       "brand": "Xiaomi",
       "description": "Relógio inteligente com monitoramento de saúde e atividades.",
       "image": "https://cdn.shopify.com/s/files/1/0061/7703/0259/files/Descricao1.1.jpg"
-  }
+    }
   ]
 }
